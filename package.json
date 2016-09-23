@@ -1,0 +1,21 @@
+{
+  "name": "010",
+  "version": "1.0.0",
+  "description": "deec",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelShaman/010.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PixelShaman/010/issues"
+  },
+  "homepage": "https://github.com/PixelShaman/010#readme"
+}
